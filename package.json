@@ -1,0 +1,20 @@
+{
+  "name": "carlton-site",
+  "version": "0.0.1",
+  "description": "website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "private": true,
+  "author": "Carlton Semple : csemp@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
